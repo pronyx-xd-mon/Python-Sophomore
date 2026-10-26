@@ -1,4 +1,4 @@
-username=input("Enter your name ")
+username=input("Enter your name and surname ")
 
 def f(username):
     username=username.title()
